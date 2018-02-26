@@ -1,0 +1,10 @@
+{
+  "key": "value",
+  "number" : 16,
+  "food": "taco",
+  "array":[1,2,3,4],
+  "object": {
+    "nested": true,
+    "cool": "yup"
+    }
+}
